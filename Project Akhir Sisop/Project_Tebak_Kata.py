@@ -26,7 +26,7 @@ hewan = ['ayam', 'anjing', 'angsa', 'bebek', 'babi', 'badak', 'belut', 'buaya', 
          'unta', 'ulat', 'ular', 'zebra']
 
 buah = ['apel', 'alpukat', 'arbei', 'blewah', 'delima', 'duku', 'durian', 'jambu', 'jeruk', 
-        'kelapa', 'kiwi', 'kurma', 'leci', 'lemon', 'mangga', 'maggis', 'markisa', 'melon',
+        'kelapa', 'kiwi', 'kurma', 'leci', 'lemon', 'mangga', 'manggis', 'markisa', 'melon',
         'murbai', 'nanas', 'nangka', 'pepaya', 'pir', 'persik', 'pisang', 'rambutan', 'salak',
         'sirsak', 'srikaya', 'semangka', 'timun', 'tomat']
 
